@@ -3,7 +3,7 @@
 </script>
 
 <main class="container">
-  <h1>Welcome to Tauri!</h1>
+  <h1>Welcome to SUPER DUPER ULTRA MEGA GIGA HASHMAP DICTIONARY SYSTEM TLD INCORPORATED!!!</h1>
 
   <div class="row">
     <a href="https://vitejs.dev" target="_blank">
@@ -18,12 +18,9 @@
   </div>
 
   <p>
-    Click on the Tauri, Vite, and Svelte logos to learn more.
+    Hellua!
   </p>
 
-  <div class="row">
-    <Greet />
-  </div>
 
 
 </main>
